@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-automation-exercise",
+  "version": "1.0.0",
+  "description": "Portfolio QA : Suite de tests automatisés pour site e-commerce. Tests UI (Playwright), API (Postman) et E2E avec stratégie de test optimisée par IA.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASLILDN/portfolio-automation-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ASLILDN/portfolio-automation-exercise/issues"
+  },
+  "homepage": "https://github.com/ASLILDN/portfolio-automation-exercise#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1",
+    "dotenv": "^17.2.3"
+  }
+}
